@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCalaimBasedAuthenticationTest", "WebApiCalaimBasedAuthenticationTest\WebApiCalaimBasedAuthenticationTest.csproj", "{ED00AFBF-E8CE-47AD-B271-BB090C0B96A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED00AFBF-E8CE-47AD-B271-BB090C0B96A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED00AFBF-E8CE-47AD-B271-BB090C0B96A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED00AFBF-E8CE-47AD-B271-BB090C0B96A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED00AFBF-E8CE-47AD-B271-BB090C0B96A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBCB4974-C03C-46AD-A3DD-A7C9BE7BEC30}
+	EndGlobalSection
+EndGlobal
